@@ -1,6 +1,9 @@
 _repo: Women-Workers-in-Seven-Professions--13-A-Survey-of-Their-Economic-Conditions-and-Prospects_12171
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Women Workers in 7 Professions
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   editor:
     agent_name: Morley, Edith J. (Edith Julia)
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '4248'
     url: http://www.gutenberg.org/2009/agents/4248
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12171#Women-Workers-in-Seven-Professions--13-A-Survey-of-Their-Economic-Conditions-and-Prospects
 gutenberg_issued: '2004-04-01'
 gutenberg_type: Text
 identifiers:
